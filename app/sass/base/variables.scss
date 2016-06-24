@@ -1,0 +1,43 @@
+// Colours
+$white            : #FFFFFF;
+$off-white        : #F9F9F9;
+$black            : #000000;
+$blue             : #0086AB;
+$orange           : #F80;
+$deepOrange       : #F58B2C;
+$bright-red       : #B10000;
+$grandis          : #FFCF78;
+$grey             : #DDDDDD;
+$monson           : #777777;
+$silver           : #BBBBBB;
+$deuces           : #222222;
+$four             : #444444;
+$green            : #56C08A;
+$overlay          : rgba(0, 0, 0, .7);
+
+// Assignment of Colours
+$primary-color          : $white;
+$secondary-color        : $off-white;
+$text-color             : $black;
+$text-color-alt         : $deuces;
+$text-color-light       : $white;
+$span-color             : $four;
+$action                 : $green;
+$cancel                 : $monson;
+$links                  : $blue;
+$cta                    : $orange;
+$border                 : $silver;
+
+// Buttons
+$button-primary         : $blue;
+$button-action          : $green;
+$button-delete          : $bright-red;
+
+// States
+$missing-accent         : $bright-red;
+$outdated-accent        : $orange;
+$hover                  : $off-white;
+
+// Typography
+$fs         : 16px;  // base font-size
+$lh         : 24;   // base line-height

@@ -1,0 +1,29 @@
+body {
+  background: #F4F4F4;
+}
+
+table {
+  background: #FFF;
+  margin-top: 5rem;
+}
+
+.form-wrapper {
+  width: 100%;
+  background: #333333;
+  text-align: right;
+  padding: 1.5rem;
+  input {
+    border-radius: 3px;
+    padding: 4px;
+    border: none;
+  }
+}
+
+.search-label {
+  color: #999;
+  font-weight: 300;
+  margin-right: 15px;
+  input {
+    margin-right: 5px;
+  }
+}
